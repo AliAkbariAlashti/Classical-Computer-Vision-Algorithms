@@ -1,4 +1,3 @@
-فشData README
 Overview
 The data/ folder contains sample images and videos for testing the computer vision algorithms in the HumanMonitoringCV repository. These files allow quick experimentation with the scripts in the src/ folder. For more comprehensive testing, external datasets like INRIA Person Dataset and MOT16 are recommended.
 Included Files
